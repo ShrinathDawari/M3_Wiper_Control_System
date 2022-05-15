@@ -68,17 +68,20 @@
  # THREAT
   * Low bargaining power buyers
   * Econimical crisis 
-#  ENGINE ON STATE
-![engine start](https://user-images.githubusercontent.com/74193913/168195223-4ffe543a-e10e-4558-8f71-7fb72f42b8bf.png)
 
-# WIPER SPEED IS LOW
-![LOW](https://user-images.githubusercontent.com/74193913/168207426-c329cffd-af87-42a0-bc8b-d875a0c1e922.png)
+# OUTPUT :
+## ENGINE OFF STATE :
+![](https://github.com/ShrinathDawari/M3_Wiper_Control_System/blob/f5de6cb7d18cdb4177cdecdd6114a467c3d17baf/6_Output/ENGINE_OFF%20STATE.png)
 
-# WIPER SPEED IS MODERATE
-![wiper start](https://user-images.githubusercontent.com/74193913/168195256-babaf133-6f22-4961-be93-fd78d63f2ae4.png)
+## ENGINE ON STATE :
+![](https://github.com/ShrinathDawari/M3_Wiper_Control_System/blob/f5de6cb7d18cdb4177cdecdd6114a467c3d17baf/6_Output/ENGINE_ON%20STATE.png)
 
-# WIPER SPEED IS HIGH
-![HIGH](https://user-images.githubusercontent.com/74193913/168426068-a835f8a7-460b-4e64-b2c1-6bf446e055a7.png)
+## WIPER STARTS & RUNS AT 70% (MEDIUM) SPEED :
+![](https://github.com/ShrinathDawari/M3_Wiper_Control_System/blob/f5de6cb7d18cdb4177cdecdd6114a467c3d17baf/6_Output/WIPER%20STARTS%20&%20RUNS%20AT%2070%25(MEDIUM).png)
 
-# OFF STATE
-![off state](https://user-images.githubusercontent.com/74193913/168195291-cc56a05a-6c2d-46f8-842a-e36059586f07.png)
+## WIPER RUNS AT 35% (LOW) SPEED :
+![](https://github.com/ShrinathDawari/M3_Wiper_Control_System/blob/f5de6cb7d18cdb4177cdecdd6114a467c3d17baf/6_Output/WIPER%20RUNS%20AT%2035%25(LOW).png)
+
+## WIPER RUNS AT 100% (FAST) SPEED :
+![](https://github.com/ShrinathDawari/M3_Wiper_Control_System/blob/f5de6cb7d18cdb4177cdecdd6114a467c3d17baf/6_Output/WIPER%20RUNS%20AT%20100%25(FAST).png)
+
